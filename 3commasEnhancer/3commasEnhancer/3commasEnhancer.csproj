@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_3commasEnhancer</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="XCommas.Net">
+      <HintPath>..\..\..\3Commas.Net\XCommas.Net\XCommas.Net\bin\Release\netcoreapp2.1\XCommas.Net.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+</Project>

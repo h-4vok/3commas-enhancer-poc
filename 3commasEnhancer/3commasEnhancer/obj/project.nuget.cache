@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DzuebBjSeYlL1I7XQoRJg6SB91tcNBCc3gwVnAouTT922lcrTvKKpgJHcTfT9kQrBM4I6FN1JIaJqkPeYVgC9Q==",
+  "success": true,
+  "projectFilePath": "/Users/h-4vok/Source/3commas-enhancer/3commasEnhancer/3commasEnhancer/3commasEnhancer.csproj",
+  "expectedPackageFiles": [
+    "/Users/h-4vok/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
