@@ -7,11 +7,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Reference Include="XCommas.Net">
-      <HintPath>..\..\..\3Commas.Net\XCommas.Net\XCommas.Net\bin\Release\netcoreapp2.1\XCommas.Net.dll</HintPath>
-    </Reference>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <Reference Include="XCommas.Net">
+      <HintPath>..\..\dependencies\XCommas.Net.dll</HintPath>
+    </Reference>
   </ItemGroup>
 </Project>

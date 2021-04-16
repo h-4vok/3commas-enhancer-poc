@@ -41,29 +41,19 @@ namespace _3commasEnhancer
                 foreach (var deal in response.Data)
                 {
                     Console
-                        .WriteLine($"Bot {deal.BotId} - {deal.Pair} - BO: {
-                            deal.BaseOrderVolume} - Bought: {
-                            deal.BoughtAmount} - AvgPrice: {
-                            deal.BoughtAveragePrice} - Current Price: {
-                            deal.CurrentPrice} - Actual Profit: {
-                            deal.ActualProfitPercentage} / {
-                            deal.ActualProfit} - TP: {deal.TakeProfit} / {
-                            deal.TakeProfitPrice}");
+                        .WriteLine($"Bot {deal.BotId} - {deal.Pair} - BO: {deal.BaseOrderVolume} - Bought: {deal.BoughtAmount} - AvgPrice: {deal.BoughtAveragePrice} - Current Price: {deal.CurrentPrice} - Actual Profit: {deal.ActualProfitPercentage} / {deal.ActualProfit} - TP: {deal.TakeProfit} / {deal.TakeProfitPrice}");
 
                     if (deal.ActualProfit > decimal.Zero)
                         positiveDeals.Add(deal);
                 }
 
                 Console
-                    .WriteLine($"There are {
-                        positiveDeals.Count} deals in profit:");
+                    .WriteLine($"There are {positiveDeals.Count} deals in profit:");
 
                 foreach (var deal in positiveDeals)
                 {
                     Console
-                        .WriteLine($"{deal.Pair} - +{
-                            deal.ActualProfitPercentage} % - +{
-                            deal.ActualProfit} {deal.FromCurrency}");
+                        .WriteLine($"{deal.Pair} - +{deal.ActualProfitPercentage} % - +{deal.ActualProfit} {deal.FromCurrency}");
                 }
 
                 candidatesForTsl =
@@ -95,9 +85,7 @@ namespace _3commasEnhancer
                 Console.WriteLine($"Updating deal {dealId} - {deal.Pair}");
                 var response = await client.UpdateDealAsync(dealId, updateBody);
                 Console
-                    .WriteLine($"Success {dealId} - {deal.Pair} - Currently +{
-                        deal.ActualProfitPercentage} - TSL to +{
-                        newStopLossPercentage}");
+                    .WriteLine($"Success {dealId} - {deal.Pair} - Currently +{deal.ActualProfitPercentage} - TSL to +{newStopLossPercentage}");
 
                 Console.WriteLine(response.Error ?? response.RawData);
             }

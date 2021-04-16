@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/h-4vok/Source/3commas-enhancer/3commasEnhancer/3commasEnhancer/3commasEnhancer.csproj": {}
+    "/Users/h-4vok/Source/3commas-enhancer-poc/3commasEnhancer/3commasEnhancer/3commasEnhancer.csproj": {}
   },
   "projects": {
-    "/Users/h-4vok/Source/3commas-enhancer/3commasEnhancer/3commasEnhancer/3commasEnhancer.csproj": {
+    "/Users/h-4vok/Source/3commas-enhancer-poc/3commasEnhancer/3commasEnhancer/3commasEnhancer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/h-4vok/Source/3commas-enhancer/3commasEnhancer/3commasEnhancer/3commasEnhancer.csproj",
+        "projectUniqueName": "/Users/h-4vok/Source/3commas-enhancer-poc/3commasEnhancer/3commasEnhancer/3commasEnhancer.csproj",
         "projectName": "3commasEnhancer",
-        "projectPath": "/Users/h-4vok/Source/3commas-enhancer/3commasEnhancer/3commasEnhancer/3commasEnhancer.csproj",
+        "projectPath": "/Users/h-4vok/Source/3commas-enhancer-poc/3commasEnhancer/3commasEnhancer/3commasEnhancer.csproj",
         "packagesPath": "/Users/h-4vok/.nuget/packages/",
-        "outputPath": "/Users/h-4vok/Source/3commas-enhancer/3commasEnhancer/3commasEnhancer/obj/",
+        "outputPath": "/Users/h-4vok/Source/3commas-enhancer-poc/3commasEnhancer/3commasEnhancer/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/h-4vok/.config/NuGet/NuGet.Config"

@@ -14,3 +14,17 @@
 /Users/h-4vok/Source/3commas-enhancer/3commasEnhancer/3commasEnhancer/obj/Debug/netcoreapp3.1/3commasEnhancer.csprojAssemblyReference.cache
 /Users/h-4vok/Source/3commas-enhancer/3commasEnhancer/3commasEnhancer/bin/Debug/netcoreapp3.1/XCommas.Net.pdb
 /Users/h-4vok/Source/3commas-enhancer/3commasEnhancer/3commasEnhancer/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/h-4vok/Source/3commas-enhancer-poc/3commasEnhancer/3commasEnhancer/bin/Debug/netcoreapp3.1/3commasEnhancer.deps.json
+/Users/h-4vok/Source/3commas-enhancer-poc/3commasEnhancer/3commasEnhancer/bin/Debug/netcoreapp3.1/3commasEnhancer.runtimeconfig.json
+/Users/h-4vok/Source/3commas-enhancer-poc/3commasEnhancer/3commasEnhancer/bin/Debug/netcoreapp3.1/3commasEnhancer.runtimeconfig.dev.json
+/Users/h-4vok/Source/3commas-enhancer-poc/3commasEnhancer/3commasEnhancer/bin/Debug/netcoreapp3.1/3commasEnhancer.dll
+/Users/h-4vok/Source/3commas-enhancer-poc/3commasEnhancer/3commasEnhancer/bin/Debug/netcoreapp3.1/3commasEnhancer.pdb
+/Users/h-4vok/Source/3commas-enhancer-poc/3commasEnhancer/3commasEnhancer/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/h-4vok/Source/3commas-enhancer-poc/3commasEnhancer/3commasEnhancer/bin/Debug/netcoreapp3.1/XCommas.Net.dll
+/Users/h-4vok/Source/3commas-enhancer-poc/3commasEnhancer/3commasEnhancer/obj/Debug/netcoreapp3.1/3commasEnhancer.AssemblyInfoInputs.cache
+/Users/h-4vok/Source/3commas-enhancer-poc/3commasEnhancer/3commasEnhancer/obj/Debug/netcoreapp3.1/3commasEnhancer.AssemblyInfo.cs
+/Users/h-4vok/Source/3commas-enhancer-poc/3commasEnhancer/3commasEnhancer/obj/Debug/netcoreapp3.1/3commasEnhancer.csproj.CoreCompileInputs.cache
+/Users/h-4vok/Source/3commas-enhancer-poc/3commasEnhancer/3commasEnhancer/obj/Debug/netcoreapp3.1/3commasEnhancer.csproj.CopyComplete
+/Users/h-4vok/Source/3commas-enhancer-poc/3commasEnhancer/3commasEnhancer/obj/Debug/netcoreapp3.1/3commasEnhancer.dll
+/Users/h-4vok/Source/3commas-enhancer-poc/3commasEnhancer/3commasEnhancer/obj/Debug/netcoreapp3.1/3commasEnhancer.pdb
+/Users/h-4vok/Source/3commas-enhancer-poc/3commasEnhancer/3commasEnhancer/obj/Debug/netcoreapp3.1/3commasEnhancer.genruntimeconfig.cache
